@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" width="44" height="44" role="img" aria-label="Maybank">
+  <!-- Official Maybank Yellow Cartouche Badge with Roaring Tiger -->
+  <rect width="44" height="44" rx="9" fill="#FFC800"/>
+  <g transform="translate(3, 2.5)">
+    <!-- Main head silhouette facing left -->
+    <path d="M11.5 10.8 C13.8 8.4 17.8 7.8 22.5 8.2 C24.8 7.8 26.8 8.4 28 9.8 C29 11 28.2 12.1 29 13.4 C30.8 14.8 31.8 17.1 31.2 19.8 C30.4 22.4 28 24.1 24.5 25.1 C22 26.1 18.2 25.6 15.8 23.8 C13.5 24.8 11 24.1 9.5 21.6 C8.4 18.4 8.8 15.2 10 13.1 C9.4 11.6 10.4 11 11.5 10.8 Z" fill="#111827"/>
+    <!-- Snout contour and lower jaw -->
+    <path d="M10.2 16.4 L6.5 17.8 C5.6 19.4 6.6 21.8 9 22.2 L12.5 20.8 Z" fill="#111827"/>
+    <!-- Open mouth yellow gap -->
+    <path d="M10.5 18.4 C11.6 17.8 13.6 18.3 14.6 19.6 L12.5 20.8 C11.5 20.8 10.8 19.8 10.5 18.4 Z" fill="#FFC800"/>
+    <!-- Upper sharp white fang -->
+    <polygon points="10.8,17.8 12.4,17.8 11.5,20.2" fill="#FFFFFF"/>
+    <!-- Lower sharp white fang -->
+    <polygon points="11.2,21.4 12.8,21.4 12.2,19.6" fill="#FFFFFF"/>
+    <!-- Eye -->
+    <polygon points="14.2,12.8 18,11.8 16.8,14.4 14.4,13.8" fill="#FFFFFF"/>
+    <circle cx="16" cy="13" r="0.9" fill="#111827"/>
+    <!-- Stripes -->
+    <path d="M18.5 15.4 L22.8 14.4 L20.8 17 Z" fill="#FFC800"/>
+    <path d="M20 18 L25.2 17 L22.2 20.6 Z" fill="#FFC800"/>
+    <path d="M17.5 21.1 L21.8 21.6 L18.6 23.2 Z" fill="#FFC800"/>
+    <!-- Ear -->
+    <path d="M24.2 10.4 L26.4 9.6 L25.6 12 Z" fill="#FFC800"/>
+  </g>
+  <text x="22" y="39.5" font-family="Avenir, Montserrat, 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="7.6" fill="#111827" text-anchor="middle" letter-spacing="-0.025em">Maybank</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 215 52" width="215" height="52" role="img" aria-label="Asian Banking School (ABS)">
+  <!-- Official Asian Banking School (ABS) Corporate Brand Identity · AICB Centre of Excellence -->
+  <g transform="translate(6, 6)">
+    <!-- Multi-faceted Interlocking Geometric ABS Emblem -->
+    <polygon points="20,2 34,10 34,24 20,16" fill="#14539a"/>
+    <polygon points="20,2 20,16 6,24 6,10" fill="#0a2c5a"/>
+    <polygon points="20,16 34,24 20,32 6,24" fill="#c5a059"/>
+    <polygon points="20,8 27,12.2 27,19 20,15" fill="#ffffff" opacity="0.95"/>
+    <polygon points="20,8 20,15 13,19 13,12.2" fill="#e0f2fe"/>
+    <polygon points="20,16 27,20.2 20,25 13,20.2" fill="#d4af37"/>
+  </g>
+  <!-- Authentic ABS Corporate Wordmark -->
+  <text x="50" y="23" font-family="Avenir, Montserrat, 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="12" fill="#0a2c5a" letter-spacing="-0.02em">ASIAN BANKING SCHOOL</text>
+  <text x="50" y="36" font-family="Inter, Roboto, Arial, sans-serif" font-weight="700" font-size="7.4" fill="#c5a059" letter-spacing="0.08em">AICB CENTRE OF EXCELLENCE</text>
+</svg>

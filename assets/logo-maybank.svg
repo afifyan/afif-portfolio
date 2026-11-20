@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 52" width="190" height="52" role="img" aria-label="Maybank">
+  <!-- Official Malayan Banking Berhad (Maybank) Corporate Brand Mark -->
+  <g transform="translate(6, 6)">
+    <!-- Iconic Maybank Yellow Cartouche / Shield -->
+    <rect width="40" height="40" rx="9" fill="#FFC800"/>
+    
+    <!-- Authentic Roaring Malayan Tiger Head (Left Profile) -->
+    <!-- Head silhouette and neck muscle contour -->
+    <path d="M11.5 11.2 C13.8 8.8 17.8 8.2 22.5 8.6 C24.8 8.2 26.8 8.8 28 10.2 C29 11.4 28.2 12.5 29 13.8 C30.8 15.2 31.8 17.5 31.2 20.2 C30.4 22.8 28 24.5 24.5 25.5 C22 26.5 18.2 26 15.8 24.2 C13.5 25.2 11 24.5 9.5 22 C8.4 18.8 8.8 15.6 10 13.5 C9.4 12 10.4 11.4 11.5 11.2 Z" fill="#111827"/>
+    <!-- Snout contour and lower jaw opening -->
+    <path d="M10.2 16.8 L6.5 18.2 C5.6 19.8 6.6 22.2 9 22.6 L12.5 21.2 Z" fill="#111827"/>
+    <!-- Open roaring mouth cavity showing bright yellow base -->
+    <path d="M10.5 18.8 C11.6 18.2 13.6 18.7 14.6 20 L12.5 21.2 C11.5 21.2 10.8 20.2 10.5 18.8 Z" fill="#FFC800"/>
+    <!-- Sharp upper white fang -->
+    <polygon points="10.8,18.2 12.4,18.2 11.5,20.6" fill="#FFFFFF"/>
+    <!-- Sharp lower white fang -->
+    <polygon points="11.2,21.8 12.8,21.8 12.2,20" fill="#FFFFFF"/>
+    <!-- Tiger Eye: sharp white almond with dark pupil -->
+    <polygon points="14.2,13.2 18,12.2 16.8,14.8 14.4,14.2" fill="#FFFFFF"/>
+    <circle cx="16" cy="13.4" r="0.9" fill="#111827"/>
+    <!-- Tiger Facial Stripes in Maybank Yellow -->
+    <path d="M18.5 15.8 L22.8 14.8 L20.8 17.4 Z" fill="#FFC800"/>
+    <path d="M20 18.4 L25.2 17.4 L22.2 21 Z" fill="#FFC800"/>
+    <path d="M17.5 21.5 L21.8 22 L18.6 23.6 Z" fill="#FFC800"/>
+    <!-- Ear Inner Accent -->
+    <path d="M24.2 10.8 L26.4 10 L25.6 12.4 Z" fill="#FFC800"/>
+  </g>
+  <!-- Authentic Maybank Bold Typography -->
+  <text x="54" y="33" font-family="Avenir, Montserrat, 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="22.5" fill="#111827" letter-spacing="-0.035em">Maybank</text>
+</svg>

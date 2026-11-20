@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" width="44" height="44" role="img" aria-label="FSTEP">
+  <!-- Official FSTEP Institutional Badge -->
+  <rect width="44" height="44" rx="8" fill="#0a2c5a"/>
+  <g transform="translate(3, 2)">
+    <path d="M8 25 L19 8 L30 25 L24.5 25 L19 16.5 L13.5 25 Z" fill="#FFC800"/>
+    <path d="M12.5 29 L19 19.5 L25.5 29 L22 29 L19 24.5 L16 29 Z" fill="#FFFFFF"/>
+  </g>
+  <text x="22" y="38" font-family="Avenir, Montserrat, Arial, sans-serif" font-weight="900" font-size="6.8" fill="#FFC800" text-anchor="middle" letter-spacing="0.06em">FSTEP</text>
+</svg>

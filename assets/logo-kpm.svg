@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 50" width="180" height="50" role="img" aria-label="Kolej Profesional MARA">
+  <!-- Official Kolej Profesional MARA / MARA Institutional Crest -->
+  <g transform="translate(6, 6)">
+    <!-- Outer Blue Wheel -->
+    <circle cx="19" cy="19" r="19" fill="#1e3a8a"/>
+    <!-- Outer Cog Teeth Accents -->
+    <circle cx="19" cy="19" r="17.2" fill="#1e3a8a" stroke="#ffffff" stroke-width="0.8" stroke-dasharray="2,2"/>
+    <!-- Red Inner Band -->
+    <circle cx="19" cy="19" r="15" fill="#dc2626"/>
+    <!-- Deep Blue Core -->
+    <circle cx="19" cy="19" r="10.2" fill="#1e3a8a"/>
+    <!-- Crescent Moon & Star -->
+    <path d="M16 11.2 C20 11.2 22.8 14 22.8 18 C22.8 22 20 24.8 16 24.8 C14 24.8 12.5 23.8 11.5 22.5 C13.5 22.5 16 20.2 16 18 C16 15.8 13.5 13.5 11.5 13.5 C12.5 12.2 14 11.2 16 11.2 Z" fill="#f59e0b"/>
+    <polygon points="22.5,15.2 23.3,17.2 25.2,17.2 23.7,18.4 24.3,20.4 22.5,19.4 20.7,20.4 21.3,18.4 19.8,17.2 21.7,17.2" fill="#ffffff"/>
+  </g>
+  <text x="50" y="22" font-family="Avenir, Montserrat, Arial, sans-serif" font-weight="900" font-size="12.5" fill="#1e3a8a" letter-spacing="0.02em">KPM MELAKA</text>
+  <text x="50" y="34" font-family="Inter, Roboto, Arial, sans-serif" font-weight="700" font-size="7" fill="#475569" letter-spacing="0.02em">KOLEJ PROFESIONAL MARA</text>
+</svg>
